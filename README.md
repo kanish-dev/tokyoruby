@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tokyoruby
+- 👋 Hi, I’m @kanish-dev
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning AI/PYTHON 
 - 🧑‍💻 Wake>Play>Repeat
